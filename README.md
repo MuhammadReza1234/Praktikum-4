@@ -53,7 +53,7 @@ Program Bilangan Acak Yang Lebih Kecil Dari 0.5
 
 <img width="680" alt="reza 17" src="https://user-images.githubusercontent.com/115516607/199919408-a3002416-cd32-429a-a658-f59f66b0e56b.png">
 
-## ======= Sekian & Terimakasih =======
+## ========= Sekian & Terimakasih =========
 
 
 
