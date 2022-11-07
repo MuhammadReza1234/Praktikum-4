@@ -1,4 +1,4 @@
-## Nama   : Muhammd Reza Maulana
+## Nama   : Muhammad Reza Maulana
 ## Kelas  : TI.22.A3
 ## NIM    : 312210303
 
